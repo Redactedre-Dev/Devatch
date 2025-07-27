@@ -1,4 +1,3 @@
-Inline-style: 
 ![alt text](DevatchLogo.png "Devatch logo")
 
 https://imgbb.com/
