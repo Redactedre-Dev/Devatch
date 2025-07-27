@@ -1,5 +1,5 @@
 Inline-style: 
-![alt text](https://ibb.co/N6N4nSnZ "Devatch logo")
+![alt text](DevatchLogo.png "Devatch logo")
 
 https://imgbb.com/
 # Devatch
